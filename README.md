@@ -1,0 +1,2 @@
+# SuffixTree
+example of SuffixTree
