@@ -1,2 +1,2 @@
-# SuffixTree
-example of SuffixTree
+# Trie
+example of Trie
